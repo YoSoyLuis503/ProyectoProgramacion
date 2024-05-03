@@ -1,0 +1,5 @@
+/* Estilos para centrar el formulario verticalmente */
+.centrar-formulario {
+    display: flex;
+    justify-content: center;
+}
